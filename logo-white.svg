@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120">
+  <rect width="96" height="96" x="12" y="12" rx="28" fill="#ec5b35"/>
+  <path d="M38 34h29c18 0 29 8 29 22 0 8-4 15-11 18 10 3 15 10 15 20 0 17-13 26-34 26H38V34zm27 34c9 0 14-3 14-10 0-6-5-9-14-9H55v19h10zm2 35c10 0 16-4 16-11 0-7-6-10-16-10H55v21h12z" fill="#fff"/>
+  <text x="135" y="82" font-family="Arial, sans-serif" font-size="66" font-weight="800" fill="#ffffff">BEKSAF</text>
+</svg>
