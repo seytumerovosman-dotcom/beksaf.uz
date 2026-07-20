@@ -1,0 +1,24 @@
+BEKSAF 2.0 — инструкция по публикации
+
+1. Откройте репозиторий:
+   https://github.com/seytumerovosman-dotcom/beksaf.uz
+
+2. Нажмите Add file → Upload files.
+
+3. Перетащите в окно GitHub следующие 8 файлов из этого архива:
+   index.html
+   catalog.html
+   branding.html
+   about.html
+   portfolio.html
+   contacts.html
+   site.css
+   site.js
+
+4. Внизу страницы нажмите Commit changes.
+
+Важно: существующие фотографии JPG и старые файлы удалять не нужно.
+GitHub Pages автоматически обновит сайт через несколько минут.
+
+Страница сайта:
+https://seytumerovosman-dotcom.github.io/beksaf.uz/
